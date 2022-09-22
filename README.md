@@ -2,7 +2,7 @@
 
 ![capoo working](./capoo-bugcat.gif)  
 
-## Language
+## Language / IDE
 
 <img align="left" alt="Python" width="26px" src="https://www.svgrepo.com/show/354238/python.svg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
