@@ -6,7 +6,7 @@
 
 <img align="left" alt="Python" width="26px" src="https://www.svgrepo.com/show/354238/python.svg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://img2020.cnblogs.com/blog/142275/202105/142275-20210531084731327-1834701927.png" style="padding-right:10px;" />
+<img align="left" alt=".Net Core" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" style="padding-right:10px;" />
 
 
 <br />  
